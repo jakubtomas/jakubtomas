@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakubtomas
 - 👀 I’m interested in Frontend (Angular, VUE)
-- 🌱 I’m currently learning (Rxjs,Vue3)
+- 🌱 I’m currently learning (Rxjs,Vue3(Composition API))
 - 📫 Contact  tomasjakub21@gmail.com
 - 😃 Personal Projects https://jakubtomas.github.io/
 
